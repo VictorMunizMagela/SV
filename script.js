@@ -13,7 +13,7 @@ function showSlides() {
 }
 
 // Data de início (exemplo: 1 de Janeiro de 2020)
-const startDate = new Date("2024-06-08T00:00:00");
+const startDate = new Date("2024-06-07T00:00:00");
 
 function updateTimer() {
     const now = new Date();
